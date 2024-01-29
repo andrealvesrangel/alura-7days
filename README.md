@@ -1,5 +1,5 @@
 # alura-7days
-Challenge feito pela plataforma alura de 7 dias para a criação de uma página com HTML e CSS.
+
 Em português
 
 Projeto feito para um desafio de 7 dias na plataforma ALURA. Foi o meu primeiro projeto mais extenso utilizando HTML e CSS, e fiquei bastante satisfeito com o resultado. Espero revisitar o projeto para torná-lo responsivo e buscar constantemente maneiras de aprimorar o código já desenvolvido.
